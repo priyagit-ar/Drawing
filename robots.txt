@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://priyagit-ar.github.io/Drawing/sitemap.xml
